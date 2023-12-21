@@ -1,0 +1,33 @@
+.setup{
+    display: grid; 
+    grid-template-rows: 100px 10px 500px 10px;
+    grid-template-columns: 100px 100px 100px;
+    background-color: rgb(233, 240, 239);
+}
+
+
+.navbar{
+    background-color: rgb(66, 103, 178); 
+    grid-column: 1 / 5;
+}
+
+
+.nested_one{
+    grid-row-start: 2;
+    grid-row-end: 4;
+    background-color: black;
+    align-items: flex-start;
+}
+
+
+.left{
+    margin: 10px;
+}
+
+.middle{
+    margin: 10px;
+}
+
+.right{
+    margin: 10px;
+}

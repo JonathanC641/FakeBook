@@ -16,26 +16,26 @@ In previous labs you've been given most of the colors that you need to style you
 #### Step One: Outermost Grid
 When you first look at a website, you'll want to develop an intuition for where the outermost grid lies. Look for the highest level of layout on the page. In this example, we'll be looking at the differentiation between the nav bar and the page content. Recreate the basic mockup you see below.
 
-![](facebook_basic.png)
+![](src/facebook_basic.png)
 
 ### Step Two: Nested Grids
 As you experienced in the nested grid lab, it is possible to create grid layouts within items of another, higher level, grid. We'll focus on creating the grid within the page content here. Try to write the html here yourself, but if you're really unsure of where to get started you can check out the step_two.html file.
 
-![](facebook_nested_one.png)
+![](src/facebook_nested_one.png)
 
 ## Step Three: Keep Nesting...
 If you take a look at your facebook page, you'll notice that your left sidebar doesn't actually have a square in it, your center area is split up into posts, and your right sidebar is not the height of the page.
 
-![](facebook_nested_two.png)
+![](src/facebook_nested_two.png)
 
 ## Step Four: Even more (you guessed it) nesting!
 Here you can see the border used within your posts that demonstrates the separation between two nested grid items. Again, try to change your own html, but if you need some ideas you can look at the step_four.html file.
 
-![](facebook_grid.png)
+![](src/facebook_grid.png)
 
 ## Stretch Activity: Content
 Add as many of the content additions from the mockup below to your own!
 
-![](facebook_stretch.png)
+![](src/facebook_stretch.png)
 
 If you add all of the content above, try creating your own posts to fill the area grid items in the center column of the screen!
